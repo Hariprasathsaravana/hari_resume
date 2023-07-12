@@ -1,0 +1,115 @@
+/* navbar style */
+.navbar-inverse {
+    background-color: whitesmoke !important;
+    border-color: whitesmoke !important;
+}
+.navbar-inverse .navbar-brand{
+    color:red !important;
+    font-size: 20px;
+    font-weight: 600;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #444 !important;
+    font-size:17px;
+    font-weight:700;
+}
+/* navbar style */
+
+/* banner */
+.banner{
+    background-color:#000;
+    height:400px;
+}
+.banner-content .b1{
+    color:white;
+    position:absolute;
+    top:29%;
+    left:31%;
+}
+
+.banner-content .b2{
+    text-align:center;
+    color:white;
+    font-weight: 600;
+    padding:140px;
+}
+/* banner */
+/* about */
+
+.about{
+    background-color: #edeef0;
+    padding-top:100px;
+    padding-bottom:100px;
+}
+.about .profile-pic .img{
+    width:250px;
+    height:350px;
+    border-radius: 50%;
+}
+.about .abtcont .abttext{
+    font-size: 16px;
+    color: #444;
+    line-height: 30px;
+} 
+
+/* about */
+/* portfolio */
+.port {
+    background-color: #000;
+    padding-top:50px;
+    padding-bottom:50px;
+
+}
+.port .portheading h3{
+    color:#fff;
+    text-align: center;
+    font-weight: 500;
+
+
+}
+.port .portheading p{
+    color:#fff;
+    text-align: center;
+    font-weight: 500;
+}
+.bx .whitebox{
+    background-color: #fff;
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+
+}
+.bx .whitebox .circle{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    border-radius:50%;
+    margin:0px auto;
+}
+
+.bx .whitebox .circle h2{
+    color:white;
+    font-weight:600;
+    /* padding:20px; */
+    text-align: center;
+    padding-top:30px;
+}
+
+/* portfolio */
+/* Skills */
+.skill {
+    background-color: #edeef0;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+.skill .skillheading h3{
+    text-align: center;
+    color: #000000;
+    font-weight: 500;
+}
+
+
+
+
+/* skills */
